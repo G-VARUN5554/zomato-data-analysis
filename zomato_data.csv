@@ -1,0 +1,51 @@
+Order_ID,Customer_ID,Customer_Name,City,Restaurant_ID,Restaurant_Name,Cuisine_Type,Order_Date,Order_Time,Delivery_Time_mins,Order_Amount,Discount,Final_Amount,Payment_Mode,Rating,Delivery_Partner_ID,Order_Status
+1001,C001,Rahul Sharma,Bengaluru,R101,Spice Garden,North Indian,2026-01-05,12:30,35,450,50,400,UPI,4.5,DP001,Delivered
+1002,C002,Priya Patel,Mumbai,R102,The Biryani House,Biryani,2026-01-05,13:00,42,620,0,620,Credit Card,4.8,DP002,Delivered
+1003,C003,Amit Kumar,Delhi,R103,Pizza Palace,Pizza,2026-01-05,19:45,28,380,30,350,Debit Card,4.2,DP003,Delivered
+1004,C004,Sneha Reddy,Hyderabad,R104,Andhra Spice,South Indian,2026-01-06,08:15,20,290,0,290,Cash,4.6,DP004,Delivered
+1005,C005,Vikram Singh,Pune,R105,Punjabi Tadka,North Indian,2026-01-06,12:00,33,510,60,450,UPI,4.3,DP005,Delivered
+1006,C001,Rahul Sharma,Bengaluru,R106,Burger Barn,Fast Food,2026-01-06,20:30,25,350,0,350,UPI,4.0,DP006,Delivered
+1007,C006,Meena Iyer,Chennai,R107,Chettinad Kitchen,South Indian,2026-01-07,13:15,38,480,50,430,Credit Card,4.7,DP007,Delivered
+1008,C007,Arjun Nair,Bengaluru,R108,Sushi Stop,Japanese,2026-01-07,19:00,45,850,100,750,Credit Card,4.9,DP008,Delivered
+1009,C008,Pooja Mehta,Mumbai,R109,Pav Bhaji Corner,Street Food,2026-01-07,16:30,22,180,0,180,Cash,4.1,DP009,Delivered
+1010,C009,Rohan Das,Kolkata,R110,Bengali Sweets,Desserts,2026-01-08,11:00,30,260,20,240,UPI,4.4,DP010,Delivered
+1011,C010,Kavya Menon,Bengaluru,R101,Spice Garden,North Indian,2026-01-08,13:30,36,520,0,520,Debit Card,4.5,DP001,Delivered
+1012,C002,Priya Patel,Mumbai,R111,Pasta Paradise,Italian,2026-01-08,20:00,40,670,70,600,Credit Card,4.6,DP002,Delivered
+1013,C003,Amit Kumar,Delhi,R112,Tandoor Express,North Indian,2026-01-09,12:45,29,410,0,410,UPI,4.3,DP003,Delivered
+1014,C011,Divya Nambiar,Hyderabad,R104,Andhra Spice,South Indian,2026-01-09,19:30,24,330,30,300,Cash,4.7,DP004,Delivered
+1015,C012,Siddharth Rao,Pune,R113,Veg Delight,Vegetarian,2026-01-09,08:00,18,220,0,220,UPI,4.2,DP005,Delivered
+1016,C005,Vikram Singh,Pune,R114,Keema Kadai,Mughlai,2026-01-10,13:00,35,560,60,500,Credit Card,4.5,DP006,Delivered
+1017,C006,Meena Iyer,Chennai,R115,Idli Vada House,South Indian,2026-01-10,07:30,15,150,0,150,UPI,4.8,DP007,Delivered
+1018,C007,Arjun Nair,Bengaluru,R116,Rolls & Wraps,Fast Food,2026-01-10,20:15,27,310,0,310,Cash,4.0,DP008,Delivered
+1019,C013,Lakshmi Pillai,Bengaluru,R108,Sushi Stop,Japanese,2026-01-11,19:45,48,920,100,820,Credit Card,5.0,DP009,Delivered
+1020,C008,Pooja Mehta,Mumbai,R102,The Biryani House,Biryani,2026-01-11,13:00,40,590,0,590,Debit Card,4.8,DP010,Delivered
+1021,C014,Nikhil Joshi,Delhi,R117,Chole Bhature Wala,North Indian,2026-01-11,11:30,25,270,20,250,UPI,4.3,DP001,Delivered
+1022,C009,Rohan Das,Kolkata,R118,Mishti Doi Palace,Desserts,2026-01-12,16:00,28,320,0,320,Cash,4.5,DP002,Delivered
+1023,C015,Anjali Verma,Bengaluru,R101,Spice Garden,North Indian,2026-01-12,12:30,34,490,50,440,UPI,4.4,DP003,Delivered
+1024,C010,Kavya Menon,Bengaluru,R119,Thai Treats,Thai,2026-01-12,19:30,42,740,80,660,Credit Card,4.7,DP004,Delivered
+1025,C016,Ravi Krishnan,Chennai,R107,Chettinad Kitchen,South Indian,2026-01-13,13:15,36,460,0,460,Debit Card,4.6,DP005,Delivered
+1026,C011,Divya Nambiar,Hyderabad,R120,Hyderabadi Dum,Biryani,2026-01-13,20:00,38,680,70,610,Credit Card,4.9,DP006,Delivered
+1027,C012,Siddharth Rao,Pune,R105,Punjabi Tadka,North Indian,2026-01-13,08:30,22,300,0,300,UPI,4.1,DP007,Delivered
+1028,C017,Tanvi Shah,Mumbai,R121,Chinese Dragon,Chinese,2026-01-14,19:00,33,550,50,500,UPI,4.3,DP008,Delivered
+1029,C013,Lakshmi Pillai,Bengaluru,R106,Burger Barn,Fast Food,2026-01-14,12:00,26,380,0,380,Cash,4.2,DP009,Delivered
+1030,C014,Nikhil Joshi,Delhi,R103,Pizza Palace,Pizza,2026-01-14,20:30,31,420,40,380,Debit Card,4.4,DP010,Delivered
+1031,C018,Gaurav Bose,Kolkata,R110,Bengali Sweets,Desserts,2026-01-15,11:00,25,240,0,240,UPI,4.3,DP001,Delivered
+1032,C001,Rahul Sharma,Bengaluru,R108,Sushi Stop,Japanese,2026-01-15,19:45,46,890,100,790,Credit Card,4.8,DP002,Delivered
+1033,C015,Anjali Verma,Bengaluru,R119,Thai Treats,Thai,2026-01-15,13:30,40,710,0,710,Credit Card,4.7,DP003,Delivered
+1034,C019,Sunita Agarwal,Hyderabad,R120,Hyderabadi Dum,Biryani,2026-01-16,12:45,35,650,60,590,UPI,4.9,DP004,Delivered
+1035,C016,Ravi Krishnan,Chennai,R115,Idli Vada House,South Indian,2026-01-16,08:00,16,160,0,160,Cash,4.8,DP005,Delivered
+1036,C020,Harish Nair,Pune,R113,Veg Delight,Vegetarian,2026-01-16,19:30,20,250,20,230,UPI,4.2,DP006,Delivered
+1037,C017,Tanvi Shah,Mumbai,R109,Pav Bhaji Corner,Street Food,2026-01-17,16:30,23,190,0,190,Cash,4.0,DP007,Delivered
+1038,C018,Gaurav Bose,Kolkata,R122,Mughlai Darbar,Mughlai,2026-01-17,20:00,37,580,60,520,Credit Card,4.5,DP008,Cancelled
+1039,C019,Sunita Agarwal,Hyderabad,R104,Andhra Spice,South Indian,2026-01-17,13:00,22,310,0,310,Debit Card,4.7,DP009,Delivered
+1040,C020,Harish Nair,Pune,R114,Keema Kadai,Mughlai,2026-01-18,12:30,34,540,50,490,UPI,4.4,DP010,Delivered
+1041,C002,Priya Patel,Mumbai,R121,Chinese Dragon,Chinese,2026-01-18,19:15,32,520,0,520,Credit Card,4.3,DP001,Delivered
+1042,C003,Amit Kumar,Delhi,R117,Chole Bhature Wala,North Indian,2026-01-18,08:15,20,260,20,240,UPI,4.5,DP002,Delivered
+1043,C004,Sneha Reddy,Hyderabad,R120,Hyderabadi Dum,Biryani,2026-01-19,13:00,36,700,80,620,Credit Card,5.0,DP003,Delivered
+1044,C021,Kiran Desai,Bengaluru,R101,Spice Garden,North Indian,2026-01-19,20:00,33,470,0,470,Cash,4.4,DP004,Delivered
+1045,C022,Nandini Rao,Chennai,R107,Chettinad Kitchen,South Indian,2026-01-19,12:30,37,500,50,450,UPI,4.6,DP005,Delivered
+1046,C021,Kiran Desai,Bengaluru,R116,Rolls & Wraps,Fast Food,2026-01-20,19:45,26,320,0,320,UPI,4.1,DP006,Delivered
+1047,C023,Preethi Kumar,Bengaluru,R108,Sushi Stop,Japanese,2026-01-20,13:00,44,860,100,760,Credit Card,4.9,DP007,Delivered
+1048,C022,Nandini Rao,Chennai,R115,Idli Vada House,South Indian,2026-01-20,07:45,14,140,0,140,Cash,4.8,DP008,Delivered
+1049,C024,Suresh Pillai,Mumbai,R102,The Biryani House,Biryani,2026-01-21,12:45,41,640,70,570,Credit Card,4.8,DP009,Delivered
+1050,C023,Preethi Kumar,Bengaluru,R119,Thai Treats,Thai,2026-01-21,20:15,43,760,80,680,UPI,4.7,DP010,Delivered
